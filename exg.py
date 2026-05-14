@@ -11,4 +11,7 @@ while expoente <= 15 and expoente >= 0:
 
     print(resultado)
 
+for i in range(0, 15):
+    resultado = resultado * base 
+    print(resultado)
 

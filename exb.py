@@ -12,3 +12,8 @@ while mult < 11:
     print(f"{num} x {mult} = {num*mult}")
     mult += 1
 
+
+num = int(input("Insira um valor para tabuada"))
+
+for i in range(0, 11):
+    print(num * i)

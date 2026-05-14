@@ -10,3 +10,8 @@ while e != cont:
     cont += 1
 
 print("O resultado é: ", resultado)
+
+for i in range(0, e):
+    resultado *= b
+
+print(resultado)
